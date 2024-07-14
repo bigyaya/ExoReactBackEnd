@@ -1,0 +1,14 @@
+.hero1 {
+    border: solid 3px black;
+    border-radius: 10px;
+    color: #2e006c;
+    background-color: silver;
+}
+
+
+.hero2 {
+    border: solid 3px black;
+    border-radius: 10px;
+    color: pink;
+    background-color: darkslategray;
+}
