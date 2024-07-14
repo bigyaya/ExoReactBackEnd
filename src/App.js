@@ -13,6 +13,7 @@ import DataFetchingOne from './components/DataFetchingOne';
 // import Hero from './components/Hero';
 // import Message from './components/Message';
 // import Welcome from './components/Welcome';
+import MovieSearch from './components/MovieSearch';
 
 function App() {
   return (
@@ -55,8 +56,9 @@ function App() {
       {/* <Inline /> */}
         {/* <Stylesheets primary = {true} /> */}
         {/* <Formulaire/> */}
-        {/* <Newsletter/> */}
+        <Newsletter/>
         <DataFetchingOne/>
+      <MovieSearch />
 
 
 
